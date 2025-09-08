@@ -1,4 +1,4 @@
-# dbooker11-mnist-image-classification-using-bp
+# mnist-image-classification-using-bp
 # BP神经网络实现 - 手写数字分类（MNIST数据集）
 该项目使用了一个简单的BP（反向传播）神经网络来对MNIST手写数字数据集进行分类。我们通过定义一个包含两层隐藏层的全连接神经网络，并实现了前向传播、反向传播、训练过程以及最终的分类任务。
 
